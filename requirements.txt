@@ -2,3 +2,4 @@ streamlit
 pandas
 json
 requests
+streamlit_lottie
